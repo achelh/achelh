@@ -1,6 +1,6 @@
 # 👋 Hola! Sóc **AYOUB**
 
-### 🚀 Desenvolupador | Creatiu | Aprenent constant
+### 🚀 Desenvolupador | Creatiu | Aprenent constantment
 
 Soc un apassionat de la tecnologia i de la creació de solucions elegants. M’encanta aprendre noves eines, treballar en projectes interessants i compartir coneixement amb la comunitat.
 
